@@ -786,10 +786,10 @@ textarea{
     padding-block: 4em;
   }
   .info {
-    padding-block: 1rem;
+    padding-block: .5rem;
   }
   .share {
-    margin-top: 1.5em;
+    margin-top: .5rem;
   }
   #close-contact-info {
     top: 1.5rem;
