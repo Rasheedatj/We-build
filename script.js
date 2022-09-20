@@ -38,7 +38,6 @@ window.onscroll = () =>{
     nav.classList.remove('activeMenu')
     search.classList.remove('active')
     login.classList.remove('activeLogin')
-    info.classList.remove('activeInfo')
 }
 
 

@@ -795,4 +795,10 @@ textarea{
     top: 1.5rem;
     right: 2rem;
   }
+  .reviews .slide p::before{
+    bottom:-3.5rem;
+    left: 8rem;
+    top: 1rem;
+    right: 0rem;
+  }
 }
