@@ -49,6 +49,7 @@ var swiper = new Swiper(".home-slider", {
       prevEl: ".swiper-button-prev",
     },
   });
+
 var swiper = new Swiper(".reviews-slider", {
     loop:true,
     grabCursor:true,
@@ -66,7 +67,7 @@ var swiper = new Swiper(".reviews-slider", {
             slidesPerView: 3.2,
             
           },
-      },
+     },
   });
 var swiper = new Swiper(".blog-slider", {
     loop:true,
