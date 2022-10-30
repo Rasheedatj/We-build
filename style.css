@@ -666,7 +666,7 @@ textarea{
   background-color: var(--light-bg);
 }
 .blog .slide{
-  /* width: 20rem; */
+
   text-align: center;
 }
 .blog .slide:hover .image img{
